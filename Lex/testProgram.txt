@@ -1,0 +1,28 @@
+float foo(float a, float b){
+float c = b - a 
+return c
+}
+
+int a = 5
+bool k = false
+float b = 10.1113
+float time = TIMESTAMP
+string message = "WARNING"
+for(a < 15){
+b = sw8
+a = a * 1
+}
+while(TIMESTAMP < 1658008547){
+b send www.IOTWebsite.com
+}
+float d
+d receive www.IOTWebsite.com
+//warning conditions//
+if(HUMIDITY >= 50 && TEMPERATURE <= 5){
+float l = HUMIDITY
+float j = TEMPERATURE
+foo(l, j)
+}
+else{
+print (message)
+}
